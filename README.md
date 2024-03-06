@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sryanjr21
 - 👀 I’m interested in ...learning anything tech wise
-- 🌱 I’m currently learning ...CSM/Certified Scrum Master
+- 🌱 I’m currently learning ...Project Management
 - 💞️ I’m looking to collaborate on ...On learning how to use Git
 
 <!---
